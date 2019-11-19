@@ -1,0 +1,18 @@
+package ie.gmit.sw;
+
+public class Menu {
+
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+	 System.out.println("MultithreadedLanguageDetector");
+	 System.out.println("=============================");
+
+	 
+	 
+	}
+
+}
